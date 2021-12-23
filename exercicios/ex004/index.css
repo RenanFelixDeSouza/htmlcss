@@ -1,0 +1,30 @@
+@charset"utf-8";
+
+
+    iframe {
+        width: 350px;
+        height: 200px;
+        border: none;
+        overflow: hidden;
+    }
+
+
+
+
+    div {
+    margin: 50px auto auto 50px;
+    position: relative;
+    top: 0px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: rgba(0,0,0,.4);
+    color: rgb(202, 199, 199);
+    width: 38.37%;
+    height: 100%;
+    transition: opacity 1s;
+}
+
+h2#pagina2{
+color: brown;
+size: 5pt;
+}
