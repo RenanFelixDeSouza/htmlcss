@@ -24,7 +24,7 @@
     transition: opacity 1s;
 }
 
-h2#pagina2{
-color: brown;
+h2#pagina2 {
+    text-align: right;
 size: 5pt;
 }
